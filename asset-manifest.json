@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/slack-api-as/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/slack-api-as/static/js/main.befc6f1e.chunk.js",
-    "main.js.map": "/slack-api-as/static/js/main.befc6f1e.chunk.js.map",
-    "runtime-main.js": "/slack-api-as/static/js/runtime-main.287cec3d.js",
-    "runtime-main.js.map": "/slack-api-as/static/js/runtime-main.287cec3d.js.map",
-    "static/js/2.d0eb047a.chunk.js": "/slack-api-as/static/js/2.d0eb047a.chunk.js",
-    "static/js/2.d0eb047a.chunk.js.map": "/slack-api-as/static/js/2.d0eb047a.chunk.js.map",
-    "static/js/3.a6e4d959.chunk.js": "/slack-api-as/static/js/3.a6e4d959.chunk.js",
-    "static/js/3.a6e4d959.chunk.js.map": "/slack-api-as/static/js/3.a6e4d959.chunk.js.map",
+    "main.css": "/slack-api-as/static/css/main.a617e044.chunk.css",
+    "main.js": "/slack-api-as/static/js/main.935d747f.chunk.js",
+    "main.js.map": "/slack-api-as/static/js/main.935d747f.chunk.js.map",
+    "runtime-main.js": "/slack-api-as/static/js/runtime-main.36efc493.js",
+    "runtime-main.js.map": "/slack-api-as/static/js/runtime-main.36efc493.js.map",
+    "static/js/2.87a999ed.chunk.js": "/slack-api-as/static/js/2.87a999ed.chunk.js",
+    "static/js/2.87a999ed.chunk.js.map": "/slack-api-as/static/js/2.87a999ed.chunk.js.map",
+    "static/js/3.8a8ab403.chunk.js": "/slack-api-as/static/js/3.8a8ab403.chunk.js",
+    "static/js/3.8a8ab403.chunk.js.map": "/slack-api-as/static/js/3.8a8ab403.chunk.js.map",
     "index.html": "/slack-api-as/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/slack-api-as/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.d0eb047a.chunk.js.LICENSE.txt": "/slack-api-as/static/js/2.d0eb047a.chunk.js.LICENSE.txt",
+    "static/css/main.a617e044.chunk.css.map": "/slack-api-as/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.87a999ed.chunk.js.LICENSE.txt": "/slack-api-as/static/js/2.87a999ed.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/slack-api-as/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.287cec3d.js",
-    "static/js/2.d0eb047a.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.befc6f1e.chunk.js"
+    "static/js/runtime-main.36efc493.js",
+    "static/js/2.87a999ed.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.935d747f.chunk.js"
   ]
 }
